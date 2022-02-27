@@ -1,0 +1,6 @@
+Pillow==9.0.1
+pyinstaller==4.9
+pyinstaller-hooks-contrib==2022.2
+pyserial==3.5
+pystray==0.19.2
+serial==0.0.97
